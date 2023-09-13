@@ -170,6 +170,9 @@ footer {
     text-align: center;
     color: #fff;
 }
+footer p{
+    background-color: rgb(216, 202, 204);
+}
 
 @media(max-width: 768px) {
    .serve,
